@@ -1,5 +1,5 @@
 ---
-title: "[Computer Security](/teaching/computer-security-fall-2015)"
+title: "[Computer Security](/teaching/computer-security-2015)"
 collection: teaching
 type: "Undergraduate Course"
 venue: "Federal University of Itajubá, Itabira Campus"

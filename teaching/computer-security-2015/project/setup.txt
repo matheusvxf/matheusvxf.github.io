@@ -1,0 +1,51 @@
+Para facilitar no ataque GDB será o seu melhor amigo (um debugger para C/C++). Ele permite ler a memória do programa e acompanhar o estado dos registradores durante a execução. Para facilitar, quem puder imprima a cheat sheet do GDB que está na pasta. Os exploits não são difíceis, mas exigem esforço e dedicação para entender o que está acontecendo na memória; para facilitar os artigos abaixo abordam a ideia básica por trás dos ataques (há outros nas instruções da pasta target). Desenhar pode ajudar, então não esquecer lápis e papel. Calculadoras binárias também são úteis (já usei a HP50g para isso).
+
+Smashing the Stack for Fun and Profit
+Understanding the Heap by Breaking it
+Exploiting Format String Vulnerabilities
+
+Instruções para instalação:
+
+1) Baixe e instale VirtualBox.
+
+2) Baixe a imagem da máquina virtual Boxes.
+
+3) Importe o arquivo da máquina virtual no VirtualBox e execute a VM
+
+4) Faca o login na VM. Há duas contas, root com senha root, e user com senha user.
+
+5) Garanta que a rede está funcionando digitando 'ip addr' e cheque que inet addr: campo de eth0 possui um endereço IP válido.
+
+6) O projeto ja esta instalado na imagem da maquina virtual.
+
+7) Sempre que você reiniciar a VM, você terá que instalar os targets no diretório /tmp (Veja abaixo).
+
+
+SSH: a máquina virtual está configurada para usar NAT (Network Address Translation) para networking. A VM possui um SSH server mas o VirtualBox não permite conexões em direção a VM; portanto, crie uma regra de redirecionamento (sobre settings, network, advanced, port forwarding) redirecionando o IP externo (Host IP) 127.0.0.1 e porta (Host Port) 2222 para a porta interna (Guest Port) 22 (deixe Guest IP vazio). Você será capaz de usar o comando 'ssh user@localhost -p 2222' para conectar na VM.
+
+Instalar os Targets:
+
+1) Na pasta target preencha o arquivo SID com seu RA e nome.
+
+cd targets
+echo '12345 Ferreira, Matheus' >> SID
+
+2) Gere o código dos targets
+
+make generate
+
+3) Compile
+
+make
+
+4) Instale
+
+make install
+
+Programas uteis:
+a) Editores de texto: nano, vim
+b) Debugger: gdb
+c) Multiplexador de shell: tmux
+d) Controle de versão: git
+e) Copiar arquivos: scp -p 2222 /file/path user@localhost:/destination/file
+   Copiar diretorio: incluir a flag -r
