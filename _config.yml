@@ -86,7 +86,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=sB6vkOIAAAAJ&hl=en"
   email            :
   uri              :
-  bitbucket        :
+  bitbucket        : "matheusvxf"
   codepen          :
   dribbble         :
   flickr           :
@@ -182,6 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+collections_dir: collections
 
 # Defaults
 defaults:
@@ -295,3 +296,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+relative_permalinks: false

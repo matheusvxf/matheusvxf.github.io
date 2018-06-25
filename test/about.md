@@ -1,12 +1,4 @@
----
-permalink: /
-title: "Biography"
-excerpt: "About me"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
+Computer Security
 
 I am a Computer Science PhD student in the <a href="http://theory.cs.princeton.edu/">Theoretical Computer Science</a> group at Princeton. I am fortunate to be advised by <a href="https://www.cs.princeton.edu/~smattw/">Matt Weinberg</a>.
 
