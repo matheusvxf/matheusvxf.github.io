@@ -59,7 +59,7 @@ img {
 * [CNS Espresso Prize for Excellence in Networking](https://cns.ucsd.edu/cns-students-portal/cns-espresso-prize-for-excellence-in-networking/) 2014
 * [Brazil Scientific Mobility Program](https://www.iie.org/en/Programs/Brazil-Scientific-Mobility/About), fully-funded fellowship recipient 2014
 * [Fapemig Research Fellowship](http://www.fapemig.br/), [LOTMine](http://www.dcc.ufmg.br/dcc/?q=en/node/305) 2013
-* $1^{st}$ place Line Follower Robot Competition, [Federal University of Itajubá](https://unifei.edu.br/) 2013
+* [$1^{st}$ place Line Follower Robot Competition](/honors/line-follower), [Federal University of Itajubá](https://unifei.edu.br/) 2013
 * [Fapemig Research Fellowship](href="http://www.fapemig.br/) 2012
 
 <img src="/images/language.png" alt="Languages" width="10%" height="10%">

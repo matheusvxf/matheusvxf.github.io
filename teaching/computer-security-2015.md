@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "Biography"
-excerpt: "About me"
+layout: archive
+title: "Computer Security, October 2015"
+venue: "Federal University of Itajubá, Itabira Campus"
 ---
 
 Description
@@ -10,6 +10,8 @@ Topics include basic cryptography, security/threat analysis, access control, aud
 
 Lectures
 ======
+[Introduction](./introduction.pdf)
+
 [Lecture 1](./lecture-1.pdf)
 
 [Lecture 2](./lecture-2.pdf)
@@ -41,3 +43,7 @@ Useful Material
 <a href="/teaching/computer-security-2015/gdb-cheat-sheet.pdf">GDB Cheat Sheet</a>
 
 <a href="/teaching/computer-security-2015/git-cheat-sheet.pdf">Git Cheat Sheet</a>
+
+Acknowledgement
+======
+Course adapted from Computer Security taught by [Hovav Shacham](https://hovav.net/ucsd/) at UCSD in Spring 2014.
