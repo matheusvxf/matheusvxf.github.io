@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
+image:
+  feature: fall-1.jpg
 ---
 
 I am a Computer Science PhD student in the [Theory of Computer Science](http://theory.cs.princeton.edu/) group at Princeton. I am fortunate to be advised by [S. Matthew Weinberg](https://www.cs.princeton.edu/~smattw/).
