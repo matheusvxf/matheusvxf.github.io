@@ -9,6 +9,9 @@ author_profile: false
 **Instructor**: Matheus Venturyne
 
 ## Description
+
+I created this short course in computer security in Brazil inspired by the computer security class I took while visiting UCSD taught by [Hovav Shacham](https://hovav.net/ucsd/).
+
 Topics include basic cryptography, security/threat analysis, access control, auditing, security models, distributed systems security, and theory behind common attack and defense techniques. The class will go over formal models as well as the bits and bytes of security exploits. The project explore memory vulnerabilities in C programs.
 
 ## Lecture Notes
