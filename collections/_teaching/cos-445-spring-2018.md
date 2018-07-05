@@ -8,6 +8,6 @@ location: "Princeton, NJ"
 ---
 Taught by [S. Matthew Weinberg](https://www.cs.princeton.edu/~smattw/)
 
-[Course Webpage](https://www.cs.princeton.edu/~smattw/Teaching/cos445sp18.htm)
+[Course webpage](https://www.cs.princeton.edu/~smattw/Teaching/cos445sp18.htm)
 
 [Precept webpage](/teaching/webpage/cos-445-spring-2018)
