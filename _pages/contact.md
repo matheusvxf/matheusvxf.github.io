@@ -5,10 +5,8 @@ permalink: /contact/
 author_profile: true
 ---
 Matheus Venturyne Xavier Ferreira\\
-Department of Computer Science 217\\
-Princeton University\\
-35 Olden Street\\
-Princeton NJ - 08540
+194 Nassau Street, 225\\
+Princeton NJ -- 08540
 
 <script language="JavaScript">
 var username = "mvxf";
