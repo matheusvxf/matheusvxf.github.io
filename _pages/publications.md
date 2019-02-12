@@ -14,3 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-publication.html %}
 {% endfor %}
+
+Manuscripts
+======
+{% for post in site.manuscripts reversed %}
+  {% include archive-manuscript.html %}
+{% endfor %}
