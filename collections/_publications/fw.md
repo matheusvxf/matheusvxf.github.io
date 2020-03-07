@@ -1,8 +1,8 @@
 ---
-title: "How to Force Mechanisms to Commit"
+title: "Credible, Truthful, and Bounded-Round Mechanisms via Cryptographic Commitments"
 venue: "In Submission"
 author: "Matheus V. X. Ferreira, S. Matthew Weinberg"
 collection: publications
-permalink: /publication/fw2019
-date: 2019-09-01
+permalink: /publication/fw2020
+date: 2020-03-01
 ---
