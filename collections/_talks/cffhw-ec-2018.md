@@ -1,5 +1,5 @@
 ---
-title: "Mitigating Insecure Devices, to Regulate Consumers or Manufacturers?"
+title: "Selling a Single Item with Negative Externalities: To Regulate Production or Payments?"
 collection: talks
 type: "Poster Session"
 venue: "19th ACM Conference on Economics and Computation"

@@ -1,5 +1,5 @@
 ---
-title: "Proof of Stake Mining Games"
+title: "Proof of Stake Mining Games with Perfect Randomness"
 collection: talks
 type: "Poster Session"
 venue: "2020 URMD Grad Cohort"

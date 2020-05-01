@@ -1,5 +1,5 @@
 ---
-title: "How to Force Mechanisms to Commit"
+title: "Credible, Truthful, and Bounded-Round Mechanisms via Cryptographic Commitments"
 collection: talks
 type: "Oral Presentation"
 venue: "Theory of Computer Science Group"
