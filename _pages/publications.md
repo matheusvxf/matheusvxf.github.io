@@ -11,9 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-publication.html %}
-{% endfor %}
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fmatheusvxf.github.io%2Ffiles%2Fmypubs.bib&jsonp=1"></script>
 
 Manuscripts
 ======
