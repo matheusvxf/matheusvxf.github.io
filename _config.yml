@@ -191,7 +191,7 @@ collections:
   service:
     output: true
     permalink: /:collection/:path/
-  
+
 collections_dir: collections
 
 # Defaults
