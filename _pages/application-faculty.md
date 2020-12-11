@@ -1,11 +1,13 @@
 ---
 layout: archive
 title: "Application Materials"
-permalink: /applications/
+permalink: /application/faculty/
 author_profile: true
 ---
 
-[[Curriculum Vitae]](/files/vita.pdf){: .btn}
+[[Cover Letter]](/files/application/faculty/cover-letter.pdf){: .btn}
+
+[[Curriculum Vitae]](/files/application/vita-job-market.pdf){: .btn}
 
 [[Research Statement]](/files/applications/research-statement.pdf){: .btn}
 
