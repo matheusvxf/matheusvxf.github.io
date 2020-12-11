@@ -9,7 +9,7 @@ author_profile: true
 
 [[Curriculum Vitae]](/files/application/vita-job-market.pdf){: .btn}
 
-[[Research Statement]](/files/applications/research-statement.pdf){: .btn}
+[[Research Statement]](/files/application/research-statement.pdf){: .btn}
 
 Teaching Statement [[todo]]
 
