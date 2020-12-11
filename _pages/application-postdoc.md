@@ -19,4 +19,4 @@ author_profile: true
 
 <b>Selling a Single Item with Negative Externalities.</b>
 <br>Chattopadhyay, T.; Feamster, N.; Ferreira, M. V. X.; Huang, D. Y.; and Weinberg, S. M.
-<br> WWW '19, May 2019, 32 Pages [[<span style="color:blue">*pdf*</span>]](https://arxiv.org/pdf/1902.10008.pdf) [[<span style="color:blue">*blog*</span>]](https://arxiv.org/pdf/1902.10008.pdf) 
+<br> WWW '19, May 2019, 32 Pages [[<span style="color:blue">*pdf*</span>]](https://arxiv.org/pdf/1902.10008.pdf)
