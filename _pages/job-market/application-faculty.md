@@ -13,7 +13,7 @@ author_profile: true
 
 Teaching Statement [[todo]]
 
-Diversity Statement [[todo]]
+Diversity and Inclusion Statement [[todo]]
 
 # Representative Publications
 
