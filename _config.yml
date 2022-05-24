@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Matheus V. X. Ferreira"
 title_separator          : "-"
-name                     : &name "Matheus V. X. Ferreira"
+name                     : &name "Matheus Venturyne Xavier Ferreira"
 description              : &description "Academic Website"
 url                      : https://matheusvxf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,10 +81,10 @@ author:
   name             : "Matheus Venturyne Xavier Ferreira"
   avatar           : "profile.jpg"
   bio              : "Postdoctoral Fellow"
-  location         : "Princeton, NJ"
-  employer         :
+  location         : "Boston, MA"
+  employer         : "Harvard University"
   googlescholar    : "https://scholar.google.com/citations?user=sB6vkOIAAAAJ&hl=en"
-  email            : "mvxf@cs.princeton.edu"
+  email            : "matheus@seas.harvard.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "matheusventuryne"
-  orcid            :
+  orcid            : "0000-0002-7695-026X"
   pinterest        :
   soundcloud       :
   stackoverflow    :
