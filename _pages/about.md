@@ -18,8 +18,22 @@ Matheus Venturyne Xavier Ferreira is a Postdoctoral Fellow in Computer Science a
 
 Upcoming Events
 
-* October 18: I'm giving a talk at INFORMS (TA65. Economics and Computation I, 8:00 AM-9:15 AM) about strategic manipulation in the leader election mechanisms of Proof-of-Stake blockchains [[Paper](https://arxiv.org/pdf/2207.07996.pdf)].
+* October 18: I will be presenting [Optimal Strategic Mining Against Cryptographic Self-Selection in Proof-of-Stake](https://arxiv.org/pdf/2207.07996.pdf) at INFORMS (TA65. Economics and Computation I, 8:00 AM-9:15 AM).
 
-* October 31: I will be at the Crypto Economics Security Conference (UC Berkeley)
+* October 31 to November 2: I will be presenting [Credible decentralized exchange design via verifiable sequencing rules](https://matheusvxf.github.io/files/manuscripts/fp-22.pdf) at the Crypto Economics Security Conference (UC Berkeley).
 
-* November 4: I'm giving a talk at Fall 2022 SIGecom Seminar Series (11:00 AM-12:00 PM)
+* November 4: I will be presenting [Optimal Strategic Mining Against Cryptographic Self-Selection in Proof-of-Stake](https://arxiv.org/pdf/2207.07996.pdf) at Fall 2022 SIGecom Seminar Series (11:00 AM-12:00 PM).
+
+* November 4: I will be presenting [Credible decentralized exchange design via verifiable sequencing rules](https://matheusvxf.github.io/files/manuscripts/fp-22.pdf) at Harvard EconCS Seminar.
+
+Past Events
+
+* September 21 - 25: I attended the RIT's future faculty career exploration program. On September 22, I gave my job talk "Economics and Computation in Distributed Systems".
+
+* July 11-15: I presented [Optimal Strategic Mining Against Cryptographic Self-Selection in Proof-of-Stake](https://arxiv.org/pdf/2207.07996.pdf) at ACM EC 2022.
+
+* June 21: I presented [Proof-of-Stake Mining Games with Perfect Randomness](https://arxiv.org/pdf/2107.04069.pdf) at [Ripple Labs](https://ripple.com/).
+
+* February 11: I presented [Proof-of-Stake Mining Games with Perfect Randomness](https://arxiv.org/pdf/2107.04069.pdf) at Harvard Theory of Computation Seminar.
+
+* December 15: I was invited to give a Spotlights Beyond WINE talk on the paper [Proof-of-Stake Mining Games with Perfect Randomness](https://arxiv.org/pdf/2107.04069.pdf).
