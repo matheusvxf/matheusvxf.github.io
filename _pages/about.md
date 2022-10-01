@@ -19,9 +19,9 @@ Matheus Venturyne Xavier Ferreira is a Postdoctoral Fellow in Computer Science a
 Upcoming Events
 
 <ul>
-  <li>October 18: I'm giving a talk at INFORMS. TA65. Economics and Computation I (8:00 AM-9:15 AM)</li>
+  <li> October 18: I'm giving a talk at INFORMS (TA65. Economics and Computation I, 8:00 AM-9:15 AM) about strategic manipulation in the leader election mechanisms of Proof-of-Stake blockchains [[Paper](https://arxiv.org/pdf/2207.07996.pdf)]. </li>
 
-  <li>October 31: I will be at the Crypto Economics Security Conference (UC Berkeley)</li>
+  <li> October 31: I will be at the Crypto Economics Security Conference (UC Berkeley)</li>
 
-  <li>November 4: I'm giving a talk at Fall 2022 SIGecom Seminar Series (11:00 AM-12:00 PM)</li>
+  <li> November 4: I'm giving a talk at Fall 2022 SIGecom Seminar Series (11:00 AM-12:00 PM)</li>
 </ul>
