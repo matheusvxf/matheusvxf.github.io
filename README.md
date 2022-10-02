@@ -1,7 +1,7 @@
-A Github Pages template for academic websites. 
+A Github Pages template for academic websites.
 
-# Change Tabs
-
+## Change Tabs
+* To include/remove tabs modify the file _data/navigation.yml
 
 ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file.
 
@@ -17,11 +17,6 @@ A Github Pages template for academic websites.
 
 See more info at https://academicpages.github.io/
 
-## To run locally in development mode
-
-To run the page locally in development mode execute:
-
-jekyll serve --config "_config.yml,_config.dev.yml"
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
@@ -30,6 +25,12 @@ jekyll serve --config "_config.yml,_config.dev.yml"
 1. Run `bundle clean` to clean up the directory (no need to run `--force`)
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+
+## To run locally in development mode
+
+To run the page locally in development mode execute:
+
+jekyll serve --config "_config.yml,_config.dev.yml"
 
 # Changelog -- bugfixes and enhancements
 

@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 Matheus Venturyne Xavier Ferreira\\
-5.420 Science and Engineering Complex
+Science and Engineering Complex, Room 5.420\\
 150 Western Ave, Boston, MA 02134
 
 <script language="JavaScript">
