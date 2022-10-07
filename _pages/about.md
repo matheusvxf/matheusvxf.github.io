@@ -34,9 +34,9 @@ Upcoming Events
 
 Past Events
 
-* September 21 - 25, 2022: I attended the RIT's future faculty career exploration program. On September 22, I gave the talk "Economics and Computation in Distributed Systems".
+* September 21 - 25, 2022: I was selected for the **Rochester Institute of Technology Future Faculty Career Exploration Program**. On September 22, I gave the talk **Economics and Computation in Distributed Systems**.
 
-* July 11-15, 2022: I presented [Optimal Strategic Mining Against Cryptographic Self-Selection in Proof-of-Stake](https://arxiv.org/abs/2207.07996) at ACM EC 2022.
+* July 11-15, 2022: I presented [Optimal Strategic Mining Against Cryptographic Self-Selection in Proof-of-Stake](https://arxiv.org/abs/2207.07996) at ACM EC 2022 which took place in Boulder, Colorado.
 
 * June 21, 2022: I presented [Proof-of-Stake Mining Games with Perfect Randomness](https://arxiv.org/abs/2107.04069) at [Ripple Labs](https://ripple.com/).
 
@@ -50,6 +50,6 @@ Past Events
 
 * July 23, 2021. I presented [Dynamic Posted-Price Mechanisms for the Blockchain Transaction-Fee Market](https://arxiv.org/abs/2103.14144) at the 16th Workshop on the Economics of Networks, Systems and Computation.
 
-* March 10, 2021. I gave the talk "Economics and Computation in Distributed Systems" at Microsoft Research, Redmond.
+* March 10, 2021. I gave the talk **Economics and Computation in Distributed Systems** at Microsoft Research, Redmond.
 
 * May 5, 2020. I talked about [Credible, Truthful, and Two-Round (Optimal) Auctions via Cryptographic Commitments](https://arxiv.org/abs/2004.01598) at Princeton research day. <red> **Winning presentation** </red>
