@@ -23,6 +23,7 @@ Matheus Venturyne Xavier Ferreira is a Postdoctoral Fellow in Computer Science a
 [[Curriculum Vitae]](/files/vita.pdf){: .btn}
 
 Upcoming Events
+---------------
 
 * October 18, 2022: I will be presenting [Optimal Strategic Mining Against Cryptographic Self-Selection in Proof-of-Stake](https://arxiv.org/abs/2207.07996) at INFORMS (TA65. Economics and Computation I, 8:00 AM-9:15 AM).
 
@@ -33,6 +34,7 @@ Upcoming Events
 * November 4, 2022: I will be presenting [Credible decentralized exchange design via verifiable sequencing rules](https://arxiv.org/abs/2209.15569) at Harvard EconCS Seminar.
 
 Past Events
+---------------
 
 * September 21 - 25, 2022: I was selected for the **Rochester Institute of Technology Future Faculty Career Exploration Program**. On September 22, I gave the talk **Economics and Computation in Distributed Systems**.
 
