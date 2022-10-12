@@ -11,12 +11,12 @@ image:
 ---
 
 <style>
-red { color: red }
-yellow { color: yellow }
+  red { color: red }
+  yellow { color: yellow }
 </style>
 
 
-Matheus Venturyne Xavier Ferreira is a Postdoctoral Fellow in Computer Science at [Harvard John A. Paulson School Of Engineering And Applied Sciences](https://www.seas.harvard.edu/). He holds a PhD (2022) and a MA (2018) in Computer Science from [Princeton University](https://www.princeton.edu/) and a BS in Computer Engineering (2016) from [Federal University of Itajubá](https://en.unifei.edu.br/). His research focuses on the computational economics of distributed systems and security against economically motivated adversaries. His research has combined cryptography and game theory insights to design decentralized markets and better understand the foundations of energy-efficient blockchains and underlaying applications. His honors include an [CNS Prize for Excellence in Networking](https://cns.ucsd.edu/cns-students-portal/cns-espresso-prize-for-excellence-in-networking/) from UC, San Diego (2014), a Dean's Grand from [Princeton Graduate School](https://gradschool.princeton.edu/) (2016), a [LATinE Fellowship](https://engineering.purdue.edu/Engr/Trailblazers) (2020) from Purdue College of Engineering, and an [Award for Excellence](https://engineering.princeton.edu/news/2020/12/03/award-excellence-honors-graduate-student-achievement) from Princeton School of Engineering (2020). Matheus is from Itabira, which is known as the Brazilian capital of poetry.
+Matheus Venturyne Xavier Ferreira is a Postdoctoral Fellow in Computer Science at [Harvard John A. Paulson School Of Engineering And Applied Sciences](https://www.seas.harvard.edu/). He holds a PhD (2022) and a MA (2018) in Computer Science from [Princeton University](https://www.princeton.edu/) and a BS in Computer Engineering (2016) from [Federal University of Itajubá](https://en.unifei.edu.br/). His research interests are in market design, information security, cryptography and algorithmic game theory. His research contributes towards the design of transparent digital platforms. For example, how can we design auctions where auctioneers cannot benefit from cheating and bidding with a fake identity? His honors include a [CNS Prize for Excellence in Networking](https://cns.ucsd.edu/cns-students-portal/cns-espresso-prize-for-excellence-in-networking/) from UC, San Diego (2014), a Dean's Grand from [Princeton Graduate School](https://gradschool.princeton.edu/) (2016-2021), a [LATinE Fellowship](https://engineering.purdue.edu/Engr/Trailblazers) (2020) from Purdue College of Engineering, and an [Award for Excellence](https://engineering.princeton.edu/news/2020/12/03/award-excellence-honors-graduate-student-achievement) from Princeton School of Engineering (2020). Matheus is from Itabira, which is known as the Brazilian capital of poetry.
 
 [I'm in the job market for 2023](mailto:matheus@seas.harvard.edu){: .btn}
 
@@ -54,4 +54,4 @@ Past Events
 
 * March 10, 2021. I gave the talk **Economics and Computation in Distributed Systems** at Microsoft Research, Redmond.
 
-* May 5, 2020. I talked about [Credible, Truthful, and Two-Round (Optimal) Auctions via Cryptographic Commitments](https://arxiv.org/abs/2004.01598) at Princeton research day. <red> **Winning presentation** </red>
+* May 5, 2020. I talked about [Credible, Truthful, and Two-Round (Optimal) Auctions via Cryptographic Commitments](https://arxiv.org/abs/2004.01598) at Princeton research day. **<red> Winning presentation </red>**
