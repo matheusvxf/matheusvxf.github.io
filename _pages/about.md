@@ -16,7 +16,9 @@ image:
 </style>
 
 
-Matheus Venturyne Xavier Ferreira is a Postdoctoral Fellow in Computer Science at [Harvard John A. Paulson School Of Engineering And Applied Sciences](https://www.seas.harvard.edu/). He holds a PhD (2022) and a MA (2018) in Computer Science from [Princeton University](https://www.princeton.edu/) and a BS in Computer Engineering (2016) from [Federal University of Itajubá](https://en.unifei.edu.br/). His research interests are in market design, information security, cryptography and algorithmic game theory. His research contributes towards the design of transparent digital platforms. For example, how can we design auctions where auctioneers cannot benefit from cheating and bidding with a fake identity? His honors include a [CNS Prize for Excellence in Networking](https://cns.ucsd.edu/cns-students-portal/cns-espresso-prize-for-excellence-in-networking/) from UC, San Diego (2014), a Dean's Grand from [Princeton Graduate School](https://gradschool.princeton.edu/) (2016-2021), a [LATinE Fellowship](https://engineering.purdue.edu/Engr/Trailblazers) (2020) from Purdue College of Engineering, and an [Award for Excellence](https://engineering.princeton.edu/news/2020/12/03/award-excellence-honors-graduate-student-achievement) from Princeton School of Engineering (2020). Matheus is from Itabira, which is known as the Brazilian capital of poetry.
+Matheus Venturyne Xavier Ferreira is a Postdoctoral Fellow in Computer Science at [Harvard John A. Paulson School of Engineering and Applied Sciences](https://www.seas.harvard.edu/). He holds a PhD (2022) and a MA (2018) in Computer Science from [Princeton University](https://www.princeton.edu/) and a BS in Computer Engineering (2016) from the [Federal University of Itajubá](https://en.unifei.edu.br/). His primary research interests are in market design, algorithmic economics, cryptography, and information security. He is particularly interested in how one can build trust by building platforms that have the incentive to follow their own specification. For example, auctions are the main building block of how we transact on eBay or how Google sells advertising; however, it is impossible to know whether or not a self-interested auctioneer is also shill bidding, i.e., bidding in their auction with a fake identity. His research shows this kind of manipulation is not inevitable, and one can design auctions that are credible by design.
+
+His honors include a [CNS Prize for Excellence in Networking](https://cns.ucsd.edu/cns-students-portal/cns-espresso-prize-for-excellence-in-networking/) from UC, San Diego (2014), a Dean's Grand from [Princeton Graduate School](https://gradschool.princeton.edu/) (2016-2021), a [LATinE Fellowship](https://engineering.purdue.edu/Engr/Trailblazers) (2020) from Purdue College of Engineering, and an [Award for Excellence](https://engineering.princeton.edu/news/2020/12/03/award-excellence-honors-graduate-student-achievement) from Princeton School of Engineering (2020). Matheus is from Itabira, which is known as the Brazilian capital of poetry.
 
 [I'm in the job market for 2023](mailto:matheus@seas.harvard.edu){: .btn}
 
@@ -25,16 +27,18 @@ Matheus Venturyne Xavier Ferreira is a Postdoctoral Fellow in Computer Science a
 Upcoming Events
 ---------------
 
-* October 18, 2022: I will be presenting [Optimal Strategic Mining Against Cryptographic Self-Selection in Proof-of-Stake](https://arxiv.org/abs/2207.07996) at INFORMS (TA65. Economics and Computation I, 8:00 AM-9:15 AM).
+* October 31 to November 2, 2022: I will be presenting [Credible decentralized exchange design via verifiable sequencing rules](https://arxiv.org/abs/2209.15569) at the Crypto Economics Security Conference, UC Berkeley.
 
-* October 31 to November 2, 2022: I will be presenting [Credible decentralized exchange design via verifiable sequencing rules](https://arxiv.org/abs/2209.15569) at the Crypto Economics Security Conference (UC Berkeley).
-
-* November 4, 2022: I will be presenting [Optimal Strategic Mining Against Cryptographic Self-Selection in Proof-of-Stake](https://arxiv.org/abs/2207.07996) at Fall 2022 SIGecom Seminar Series (11:00 AM-12:00 PM).
+* November 4, 2022: I will be presenting [Optimal Strategic Mining Against Cryptographic Self-Selection in Proof-of-Stake](https://arxiv.org/abs/2207.07996) at Fall 2022 SIGecom Seminar Series.
 
 * November 4, 2022: I will be presenting [Credible decentralized exchange design via verifiable sequencing rules](https://arxiv.org/abs/2209.15569) at Harvard EconCS Seminar.
 
+* June 6-9, 2023: I will be presenting [Credible decentralized exchange design via verifiable sequencing rules](https://arxiv.org/abs/2209.15569) at SIAM Conference on Financial Mathematics and Engineering, Philadelphia.
+
 Past Events
 ---------------
+
+* October 18, 2022: I will be presenting [Optimal Strategic Mining Against Cryptographic Self-Selection in Proof-of-Stake](https://arxiv.org/abs/2207.07996) at INFORMS (TA65. Economics and Computation I, 8:00 AM-9:15 AM).
 
 * September 21 - 25, 2022: I was selected for the **Rochester Institute of Technology Future Faculty Career Exploration Program**. On September 22, I gave the talk **Economics and Computation in Distributed Systems**.
 
