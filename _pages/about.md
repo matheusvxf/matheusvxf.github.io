@@ -27,16 +27,17 @@ His honors include a [CNS Prize for Excellence in Networking](https://cns.ucsd.e
 Upcoming Events
 ---------------
 
-* October 31 to November 2, 2022: I will be presenting [Credible decentralized exchange design via verifiable sequencing rules](https://arxiv.org/abs/2209.15569) at the Crypto Economics Security Conference, UC Berkeley.
-
-* November 4, 2022: I will be presenting [Optimal Strategic Mining Against Cryptographic Self-Selection in Proof-of-Stake](https://arxiv.org/abs/2207.07996) at Fall 2022 SIGecom Seminar Series.
-
-* November 4, 2022: I will be presenting [Credible decentralized exchange design via verifiable sequencing rules](https://arxiv.org/abs/2209.15569) at Harvard EconCS Seminar.
-
-* June 6-9, 2023: I will be presenting [Credible decentralized exchange design via verifiable sequencing rules](https://arxiv.org/abs/2209.15569) at SIAM Conference on Financial Mathematics and Engineering, Philadelphia.
+* June 6-9, 2023: I will be presenting [Credible decentralized exchange design via verifiable sequencing rules](https://arxiv.org/abs/2209.15569) at Quantitative Issues in Centralised and Decentralised Finance mini symposium during SIAM Conference on Financial Mathematics and Engineering, Philadelphia.
 
 Past Events
 ---------------
+* December 12-13, 2023: [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Tokenomics, 2022, Sorbonne Université, France
+
+* November 4, 2022: [Credible decentralized exchange design via verifiable sequencing rules](https://arxiv.org/abs/2209.15569) at Harvard EconCS Seminar.
+
+* November 4, 2022: [Optimal Strategic Mining Against Cryptographic Self-Selection in Proof-of-Stake](https://arxiv.org/abs/2207.07996) at Fall 2022 SIGecom Seminar Series.
+
+* October 31 to November 2, 2022: I will be presenting [Credible decentralized exchange design via verifiable sequencing rules](https://arxiv.org/abs/2209.15569) at the Crypto Economics Security Conference, UC Berkeley.
 
 * October 18, 2022: I will be presenting [Optimal Strategic Mining Against Cryptographic Self-Selection in Proof-of-Stake](https://arxiv.org/abs/2207.07996) at INFORMS (TA65. Economics and Computation I, 8:00 AM-9:15 AM).
 
