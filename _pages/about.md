@@ -31,9 +31,9 @@ Upcoming Events
 
 * Feb 20, 2023: I will be presenting at The University of Sydney, Australia.
 
-* Feb 28 and March 1, 2023: I will be visiting and presenting at Tufts University, Medford, MA.
+* Feb 28 and March 1, 2023: I will be presenting at Tufts University, Medford, MA.
 
-* March 14-16, 2023: I will be visiting and presenting at University of Virginia, Charlottesville, VA.
+* March 20, 2023: I will be presenting at University of Virginia, Charlottesville, VA.
 
 * June 6-9, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Quantitative Issues in Centralised and Decentralised Finance mini symposium during SIAM Conference on Financial Mathematics and Engineering, Philadelphia.
 
