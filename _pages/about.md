@@ -27,9 +27,9 @@ His honors include a [CNS Prize for Excellence in Networking](https://cns.ucsd.e
 Upcoming Events
 ---------------
 
-* Feb 15-17, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at CMU, Pittsburgh.
+* Feb 15-17, 2023: I will be presenting at CMU, Pittsburgh.
 
-* Feb 20, 2023: I will be presenting at The University of Sydney, Australia.
+* Feb 20, 2023: I will be presenting at The University of Sydney.
 
 * Feb 28 and March 1, 2023: I will be presenting at Tufts University, Medford, MA.
 
@@ -37,7 +37,11 @@ Upcoming Events
 
 * June 6-9, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Quantitative Issues in Centralised and Decentralised Finance mini symposium during SIAM Conference on Financial Mathematics and Engineering, Philadelphia.
 
+* June 20-23, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at STOC 2023, Orlando, FL.
+
+* July 19, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at CryptoEconDay, Paris, France.
 Past Events
+
 ---------------
 * December 12-13, 2023: [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Tokenomics, 2022, Sorbonne Université, France
 
