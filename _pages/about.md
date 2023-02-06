@@ -40,8 +40,9 @@ Upcoming Events
 * June 20-23, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at STOC 2023, Orlando, FL.
 
 * July 19, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at CryptoEconDay, Paris, France.
-Past Events
 
+
+Past Events
 ---------------
 * December 12-13, 2023: [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Tokenomics, 2022, Sorbonne Université, France
 
