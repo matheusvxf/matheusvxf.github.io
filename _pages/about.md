@@ -31,7 +31,7 @@ Upcoming Events
 
 * Feb 28 and March 1, 2023: I will be presenting "Transparency and Security via Algorithmic Economics" at Tufts University, Medford, MA.
 
-* March TBD, 2023: I will be presenting "Transparency and Security via Algorithmic Economics" at Princeton Decenter Seminar, Princeton, NJ.
+* March TBD, 2023: I will be presenting "Transparency and Security via Algorithmic Economics" at Princeton University, Princeton, NJ.
 
 * March 20, 2023: I will be presenting "Transparency and Security via Algorithmic Economics" at University of Virginia, Charlottesville, VA.
 
