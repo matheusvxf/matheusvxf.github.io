@@ -27,11 +27,15 @@ His honors include a [CNS Prize for Excellence in Networking](https://cns.ucsd.e
 Upcoming Events
 ---------------
 
-* Feb 20, 2023: I will be presenting "Transparency and Security via Algorithmic Economics" at The University of Sydney.
+* Feb 28, 2023: I will be giving an interview at [ZK Podcast](https://zeroknowledge.fm/) about our work on credible auction design.
 
 * Feb 28 and March 1, 2023: I will be presenting "Transparency and Security via Algorithmic Economics" at Tufts University, Medford, MA.
 
+* March TBD, 2023: I will be presenting "Transparency and Security via Algorithmic Economics" at Princeton Decenter Seminar, Princeton, NJ.
+
 * March 20, 2023: I will be presenting "Transparency and Security via Algorithmic Economics" at University of Virginia, Charlottesville, VA.
+
+* April TDB, 2023: I will be a panelist at a Bitcoin Webinar organized by [De Gruyter](https://www.degruyter.com/).
 
 * June 6-9, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Quantitative Issues in Centralised and Decentralised Finance mini symposium during SIAM Conference on Financial Mathematics and Engineering, Philadelphia.
 
@@ -42,6 +46,9 @@ Upcoming Events
 
 Past Events
 ---------------
+
+* Feb 20, 2023: I presented "Transparency and Security via Algorithmic Economics" at The University of Sydney.
+
 * Feb 15-17, 2023: I presented "Transparency and Security via Algorithmic Economics" at CMU Crypto Seminar, Pittsburgh.
 
 * December 12-13, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Tokenomics, 2022, Sorbonne Université, France
