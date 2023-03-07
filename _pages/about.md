@@ -27,7 +27,7 @@ His honors include a [CNS Prize for Excellence in Networking](https://cns.ucsd.e
 Upcoming Events
 ---------------
 
-* March 20, 2023: I will be presenting "Transparency and Security via Algorithmic Economics" at University of Virginia, Charlottesville, VA.
+* March 19-21, 2023: I will be presenting "Transparency and Security via Algorithmic Economics" at University of Virginia, Charlottesville, VA.
 
 * April 10-13, 2023: I will be presenting "Transparency and Security via Algorithmic Economics" at Princeton University, Princeton, NJ.
 
@@ -43,31 +43,29 @@ Upcoming Events
 Past Events
 ---------------
 
-* Feb 28, 2023: I gave an interview at [ZK Podcast](https://zeroknowledge.fm/) about our work on credible auction design.
-
 * Feb 28 and March 1, 2023: I presenting "Transparency and Security via Algorithmic Economics" at Tufts University, Medford, MA.
 
 * Feb 20, 2023: I presented "Transparency and Security via Algorithmic Economics" at The University of Sydney.
 
-* Feb 15-17, 2023: I presented "Transparency and Security via Algorithmic Economics" at CMU Crypto Seminar, Pittsburgh.
+* Feb 15-17, 2023: I presented "Transparency and Security via Algorithmic Economics" at Carnegie Mellon University, Crypto Seminar, Pittsburgh.
 
 * December 12-13, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Tokenomics, 2022, Sorbonne Université, France
 
-* November 4, 2022: I presented [Credible decentralized exchange design via verifiable sequencing rules](https://arxiv.org/abs/2209.15569) at Harvard EconCS Seminar.
+* November 4, 2022: I presented [Credible decentralized exchange design via verifiable sequencing rules](https://arxiv.org/abs/2209.15569) at Harvard University, EconCS Seminar.
 
 * November 4, 2022: I presented [Optimal Strategic Mining Against Cryptographic Self-Selection in Proof-of-Stake](https://arxiv.org/abs/2207.07996) at Fall 2022 SIGecom Seminar Series.
 
-* October 31 to November 2, 2022: I presented [Credible decentralized exchange design via verifiable sequencing rules](https://arxiv.org/abs/2209.15569) at the Crypto Economics Security Conference, UC Berkeley.
+* October 31 to November 2, 2022: I presented [Credible decentralized exchange design via verifiable sequencing rules](https://arxiv.org/abs/2209.15569) at the UC Berkeley, Crypto Economics Security Conference.
 
-* October 18, 2022: I presented [Optimal Strategic Mining Against Cryptographic Self-Selection in Proof-of-Stake](https://arxiv.org/abs/2207.07996) at INFORMS (TA65. Economics and Computation I, 8:00 AM-9:15 AM).
+* October 18, 2022: I presented [Optimal Strategic Mining Against Cryptographic Self-Selection in Proof-of-Stake](https://arxiv.org/abs/2207.07996) at INFORMS.
 
 * September 21 - 25, 2022: I was selected for the **Rochester Institute of Technology Future Faculty Career Exploration Program**. On September 22, I gave the talk **Economics and Computation in Distributed Systems**.
 
-* July 11-15, 2022: I presented [Optimal Strategic Mining Against Cryptographic Self-Selection in Proof-of-Stake](https://arxiv.org/abs/2207.07996) at ACM EC 2022 which took place in Boulder, Colorado.
+* July 11-15, 2022: I presented [Optimal Strategic Mining Against Cryptographic Self-Selection in Proof-of-Stake](https://arxiv.org/abs/2207.07996) at ACM EC 2022 in Boulder, Colorado.
 
 * June 21, 2022: I presented [Proof-of-Stake Mining Games with Perfect Randomness](https://arxiv.org/abs/2107.04069) at [Ripple Labs](https://ripple.com/).
 
-* February 11, 2022: I presented [Proof-of-Stake Mining Games with Perfect Randomness](https://arxiv.org/abs/2107.04069) at Harvard Theory of Computation Seminar.
+* February 11, 2022: I presented [Proof-of-Stake Mining Games with Perfect Randomness](https://arxiv.org/abs/2107.04069) at Harvard University, Theory of Computation Seminar.
 
 * December 15, 2021: I was invited to give a Spotlights Beyond WINE talk on the paper [Proof-of-Stake Mining Games with Perfect Randomness](https://arxiv.org/abs/2107.04069).
 
