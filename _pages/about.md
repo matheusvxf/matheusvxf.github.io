@@ -28,9 +28,9 @@ Upcoming Events
 ---------------
 
 
-* April 10-13, 2023: I will be presenting "Transparency and Security via Algorithmic Economics" at Princeton University, Department of Computer Science, DeCenter Seminar.
+* April 10-13, 2023: I will be presenting "Transparency and Security via Algorithmic Economics" at Princeton University, DeCenter Seminar.
 
-* April 19, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at MIT, EECS, Algorithms and Complexity Seminar.
+* April 19, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at MIT, Algorithms and Complexity Seminar.
 
 * April 20, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the [CBER](https://www.cber-forum.org/) Symposium.
 
