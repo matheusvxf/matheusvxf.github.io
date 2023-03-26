@@ -27,15 +27,16 @@ He has been recognized with several awards, including the [CNS Prize for Excelle
 Upcoming Events
 ---------------
 
-* March 19-21, 2023: I will be presenting "Transparency and Security via Algorithmic Economics" at University of Virginia, Charlottesville, VA.
 
-* April 10-13, 2023: I will be presenting "Transparency and Security via Algorithmic Economics" at Princeton University, Princeton, NJ.
+* April 10-13, 2023: I will be presenting "Transparency and Security via Algorithmic Economics" at Princeton University.
+
+* April 19, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at MIT.
 
 * April 20, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the [CBER](https://www.cber-forum.org/) Symposium.
 
 * May 20, 2023: I will be a panelist at a Bitcoin Webinar organized by [De Gruyter](https://www.degruyter.com/).
 
-* June 6-9, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Quantitative Issues in Centralised and Decentralised Finance mini symposium during SIAM Conference on Financial Mathematics and Engineering, Philadelphia.
+* June 6-9, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Quantitative Issues in Centralized and Decentralized Finance mini symposium during SIAM Conference on Financial Mathematics and Engineering, Philadelphia.
 
 * June 20-23, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at STOC 2023, Orlando, FL.
 
@@ -45,11 +46,13 @@ Upcoming Events
 Past Events
 ---------------
 
+* March 19-21, 2023: I presented "Transparency and Security via Algorithmic Economics" at University of Virginia, Charlottesville, VA.
+
 * Feb 28 and March 1, 2023: I presented "Transparency and Security via Algorithmic Economics" at Tufts University, Medford, MA.
 
 * Feb 20, 2023: I presented "Transparency and Security via Algorithmic Economics" at The University of Sydney.
 
-* Feb 15-17, 2023: I presented "Transparency and Security via Algorithmic Economics" at Carnegie Mellon University, Crypto Seminar, Pittsburgh.
+* Feb 15-17, 2023: I presented "Transparency and Security via Algorithmic Economics" at Carnegie Mellon University, Pittsburgh.
 
 * December 12-13, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Tokenomics, 2022, Sorbonne Université, France
 
