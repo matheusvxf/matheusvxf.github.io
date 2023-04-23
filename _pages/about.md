@@ -27,16 +27,11 @@ He has been recognized with several awards, including the [CNS Prize for Excelle
 Upcoming Events
 ---------------
 
-
-* April 10-13, 2023: I will be presenting "Transparency and Security via Algorithmic Economics" at Princeton University, DeCenter Seminar.
-
-* April 19, 2023: I will be presenting "Transparency and Security via Algorithmic Economics" at MIT, Algorithms and Complexity Seminar.
-
-* April 20, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the [CBER](https://www.cber-forum.org/) Symposium.
+* May 16, 2023: I will be presenting at Research Day at the Metrograph, New York
 
 * May 18, 2023: I will be a panelist at a Bitcoin Webinar organized by [De Gruyter](https://www.degruyter.com/).
 
-* June 6-9, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Quantitative Issues in Centralized and Decentralized Finance mini symposium during SIAM Conference on Financial Mathematics and Engineering, Philadelphia.
+* June 6-9, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Quantitative Issues in Centralized and Decentralized Finance mini-symposium during SIAM Conference on Financial Mathematics and Engineering, Philadelphia.
 
 * June 20-23, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at STOC 2023, Orlando, FL.
 
@@ -45,6 +40,12 @@ Upcoming Events
 
 Past Events
 ---------------
+
+* April 20, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the [CBER](https://www.cber-forum.org/) Symposium.
+
+* April 19, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at MIT, Algorithms and Complexity Seminar.
+
+* April 10-13, 2023: I presented "Transparency and Security via Algorithmic Economics" at Princeton University, DeCenter Seminar.
 
 * March 19-21, 2023: I presented "Transparency and Security via Algorithmic Economics" at University of Virginia, Department of Computer Science.
 
