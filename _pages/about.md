@@ -16,7 +16,7 @@ image:
 </style>
 
 
-Matheus Venturyne Xavier Ferreira is a Postdoctoral Fellow in Computer Science at [Harvard John A. Paulson School of Engineering and Applied Sciences](https://www.seas.harvard.edu/). He earned his PhD (2022) and MA (2018) in Computer Science from [Princeton University](https://www.princeton.edu/) and his BS in Computer Engineering (2016) from the [Federal University of Itajubá](https://en.unifei.edu.br/). His research interests include AI, Algorithmic Economics and Security. He applies artificial intelligence, optimization and theoretical computer science tools to create secure, transparent, and auditable platforms. For instance, he designs auctions that prevent auctioneers from  profiting from manipulations. 
+Matheus Venturyne Xavier Ferreira is a Postdoctoral Fellow in Computer Science at [Harvard John A. Paulson School of Engineering and Applied Sciences](https://www.seas.harvard.edu/). He earned his PhD (2022) and MA (2018) in Computer Science from [Princeton University](https://www.princeton.edu/) and his BS in Computer Engineering (2016) from the [Federal University of Itajubá](https://en.unifei.edu.br/). His research interests include AI, Algorithmic Economics and Security. He applies artificial intelligence, optimization and theoretical computer science tools to create secure, transparent, and auditable platforms. For instance, he designs auctions that prevent auctioneers from profiting from manipulations. 
 
 He has been recognized with several awards, including the [CNS Prize for Excellence in Networking](https://cns.ucsd.edu/cns-students-portal/cns-espresso-prize-for-excellence-in-networking/) from UC, San Diego (2014), the Dean's Grand from [Princeton Graduate School](https://gradschool.princeton.edu/) (2016-2021), the [LATinE Fellowship](https://engineering.purdue.edu/Engr/Trailblazers) (2020) from Purdue College of Engineering, and the [Award for Excellence](https://engineering.princeton.edu/news/2020/12/03/award-excellence-honors-graduate-student-achievement) from Princeton School of Engineering (2020). Matheus hails from Itabira, the Brazilian capital of poetry.
 
@@ -27,11 +27,13 @@ He has been recognized with several awards, including the [CNS Prize for Excelle
 Upcoming Events
 ---------------
 
+* May TBD, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the [International Association for Quantitative Finance's](www.iaqf.org) [Thalesians](https://thalesians.com/) seminar series.
+
 * May 16, 2023: I will be presenting at Research Day at the Metrograph, New York
 
 * May 18, 2023: I will be a panelist at a Bitcoin Webinar organized by [De Gruyter](https://www.degruyter.com/).
 
-* June 6-9, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Quantitative Issues in Centralized and Decentralized Finance mini-symposium during SIAM Conference on Financial Mathematics and Engineering, Philadelphia.
+* June 6-9, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the Quantitative Issues in Centralized and Decentralized Finance mini-symposium during SIAM Conference on Financial Mathematics and Engineering, Philadelphia.
 
 * June 20-23, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at STOC 2023, Orlando, FL.
 
@@ -55,7 +57,7 @@ Past Events
 
 * Feb 15-17, 2023: I presented "Transparency and Security via Algorithmic Economics" at Carnegie Mellon University, Crypto Seminar.
 
-* December 12-13, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Tokenomics, 2022, Sorbonne Université, France
+* December 12-13, 2022: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Tokenomics, 2022, Sorbonne Université, France
 
 * November 4, 2022: I presented [Credible decentralized exchange design via verifiable sequencing rules](https://arxiv.org/abs/2209.15569) at Harvard University, EconCS Seminar.
 
