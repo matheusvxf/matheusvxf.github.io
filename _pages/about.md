@@ -29,9 +29,9 @@ Upcoming Events
 
 * May TBD, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the [International Association for Quantitative Finance's](www.iaqf.org) [Thalesians](https://thalesians.com/) seminar series.
 
-* May 16, 2023: I will be presenting at Research Day at the Metrograph, New York
+* May 16, 2023: I will be presenting at the Research Day at the Metrograph, New York
 
-* May 18, 2023: I will be a panelist at a Bitcoin Webinar organized by [De Gruyter](https://www.degruyter.com/).
+* May 18, 2023: I will be a panelist at Bitcoin: A game-theoretic analysis organized by [De Gruyter](https://www.degruyter.com/).
 
 * June 6-9, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the Quantitative Issues in Centralized and Decentralized Finance mini-symposium during SIAM Conference on Financial Mathematics and Engineering, Philadelphia.
 
