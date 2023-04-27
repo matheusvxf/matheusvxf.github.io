@@ -27,7 +27,7 @@ He has been recognized with several awards, including the [CNS Prize for Excelle
 Upcoming Events
 ---------------
 
-* May TBD, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the [International Association for Quantitative Finance's](www.iaqf.org) [Thalesians](https://thalesians.com/) seminar series.
+* May TBD, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the [International Association for Quantitative Finance's](https://www.iaqf.org) [Thalesians](https://thalesians.com/) seminar series.
 
 * May 16, 2023: I will be presenting at the Research Day at the Metrograph, New York
 
@@ -43,7 +43,7 @@ Upcoming Events
 Past Events
 ---------------
 
-* April 20, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the [CBER](https://www.cber-forum.org/) Symposium.
+* April 20, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the [Crypto and Blockchain Economics Research Forum's](https://www.cber-forum.org/) symposium.
 
 * April 19, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at MIT, Algorithms and Complexity Seminar.
 
