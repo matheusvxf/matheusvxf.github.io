@@ -39,7 +39,13 @@ Upcoming Events
 
 * July 19, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at CryptoEconDay, Paris
 
+* Fall, 2023: I will be a Research Member at Simons Laufer Mathematical Sciences Institute, Berkeley, CA
+
 * January 2-5, 2024: I will be speaking at Young Workshop on Economics and Computation, Tel-Aviv, Israel
+
+* TBD: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at MIT Media Lab, Digital Currency Initiative
+
+* TBD: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at International Association for Quantitative Finance, New York City, NY
 
 Past Events
 ---------------
