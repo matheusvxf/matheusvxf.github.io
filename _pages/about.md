@@ -20,35 +20,33 @@ Matheus Venturyne Xavier Ferreira is a Postdoctoral Fellow in Computer Science a
 
 He has been recognized with several awards, including the [CNS Prize for Excellence in Networking](https://cns.ucsd.edu/cns-students-portal/cns-espresso-prize-for-excellence-in-networking/) from UC, San Diego (2014), the Dean's Grand from [Princeton Graduate School](https://gradschool.princeton.edu/) (2016-2021), the [LATinE Fellowship](https://engineering.purdue.edu/Engr/Trailblazers) (2020) from Purdue College of Engineering, and the [Award for Excellence](https://engineering.princeton.edu/news/2020/12/03/award-excellence-honors-graduate-student-achievement) from Princeton School of Engineering (2020). Matheus hails from Itabira, the Brazilian capital of poetry.
 
-[I'm in the job market for 2023](mailto:matheus@seas.harvard.edu){: .btn}
-
 [[Curriculum Vitae]](/files/vita.pdf){: .btn}
 
 Upcoming Events
 ---------------
 
-* May 22-24, 2023: I will be presenting [Credible, Optimal Auctions via Blockchains](https://arxiv.org/abs/2301.12532) at the [Eighth Marketplace Innovation Workshop](http://marketplaceinnovation.net/)
+* June 14, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at MIT Media Lab, Digital Currency Initiative
 
-* May 31, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at MIT Media Lab, Digital Currency Initiative
-
-* June 6-9, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the Quantitative Issues in Centralized and Decentralized Finance mini-symposium during SIAM Conference on Financial Mathematics and Engineering, Philadelphia
+* June 6-9, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at SIAM Conference on Financial Mathematics and Engineering, Philadelphia
 
 * June 20-23, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at STOC 2023, Orlando, FL
 
-* July 19, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at CryptoEconDay, Paris
+* July 19, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at [CryptoEconDay](https://lu.ma/cedparis), Paris
 
 * Fall, 2023: I will be a Research Member at Simons Laufer Mathematical Sciences Institute, Berkeley, CA
 
 * January 2-5, 2024: I will be speaking at Young Workshop on Economics and Computation, Tel-Aviv, Israel
 
-* TBD: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at International Association for Quantitative Finance, New York City, NY
+* TBD: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at International Association for Quantitative Finance, New York City
 
 Past Events
 ---------------
 
-* May 16, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the Research Day at the Metrograph, New York City
+* May 22, 2023: I presented [Credible, Optimal Auctions via Blockchains](https://arxiv.org/abs/2301.12532) at the [Eighth Marketplace Innovation Workshop](http://marketplaceinnovation.net/)
 
 * May 18, 2023: I was a panelist at Bitcoin: A game-theoretic analysis organized by [De Gruyter](https://www.degruyter.com/)
+
+* May 16, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the [Research Day at the Metrograph](https://lu.ma/gj8a03v1),  New York City
 
 * April 20, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the [Crypto and Blockchain Economics Research Forum's](https://www.cber-forum.org/) symposium
 
