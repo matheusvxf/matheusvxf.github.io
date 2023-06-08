@@ -25,26 +25,28 @@ He has been recognized with several awards, including the [CNS Prize for Excelle
 Upcoming Events
 ---------------
 
-* June 14, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at MIT Media Lab, Digital Currency Initiative
+* June 9, 2023: I present [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at SIAM Conference on Financial Mathematics and Engineering, Philadelphia
 
-* June 6-9, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at SIAM Conference on Financial Mathematics and Engineering, Philadelphia
+* June 14, 2023: I will present [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at MIT Media Lab, Digital Currency Initiative
 
-* June 20-23, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at STOC 2023, Orlando, FL
+* June 20-23, 2023: I will present [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at STOC 2023, Orlando, FL
 
-* July 19, 2023: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at [CryptoEconDay](https://lu.ma/cedparis), Paris
+* June 23, 2023: I will present [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Highlights Beyond EC, 2023. 
+
+* July 19, 2023: I will present [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at [CryptoEconDay](https://lu.ma/cedparis), Paris
 
 * Fall, 2023: I will be a Research Member at Simons Laufer Mathematical Sciences Institute, Berkeley, CA
 
-* January 2-5, 2024: I will be speaking at Young Workshop on Economics and Computation, Tel-Aviv, Israel
+* January 2-5, 2024: I will speak at Young Workshop on Economics and Computation, Tel-Aviv, Israel
 
-* TBD: I will be presenting [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at International Association for Quantitative Finance, New York City
+* TBD: I will present [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at International Association for Quantitative Finance, New York City
 
 Past Events
 ---------------
 
 * May 22, 2023: I presented [Credible, Optimal Auctions via Blockchains](https://arxiv.org/abs/2301.12532) at the [Eighth Marketplace Innovation Workshop](http://marketplaceinnovation.net/)
 
-* May 18, 2023: I was a panelist at Bitcoin: A game-theoretic analysis organized by [De Gruyter](https://www.degruyter.com/)
+* May 18, 2023: I was a panelist at Bitcoin: A game-theoretic analysis organized by [De Gruyter](https://www.degruyter.com/) [Video](https://www.youtube.com/watch?v=wKr8jECz53U&ab_channel=DeGruyter)
 
 * May 16, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the [Research Day at the Metrograph](https://lu.ma/gj8a03v1),  New York City
 
@@ -52,15 +54,15 @@ Past Events
 
 * April 19, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at MIT, Algorithms and Complexity Seminar
 
-* April 10-13, 2023: I presented "Transparency and Security via Algorithmic Economics" at Princeton University, DeCenter Seminar
+* April 10, 2023: I presented "Transparency and Security via Algorithmic Economics" at Princeton University, DeCenter Seminar
 
-* March 19-21, 2023: I presented "Transparency and Security via Algorithmic Economics" at the University of Virginia, Department of Computer Science
+* March 20, 2023: I presented "Transparency and Security via Algorithmic Economics" at the University of Virginia, Department of Computer Science
 
 * Feb 28, 2023: I presented "Transparency and Security via Algorithmic Economics" at Tufts University, Department of Computer Science
 
 * Feb 20, 2023: I presented "Transparency and Security via Algorithmic Economics" at The University of Sydney, School of Computer Science
 
-* Feb 15-17, 2023: I presented "Transparency and Security via Algorithmic Economics" at Carnegie Mellon University, Crypto Seminar
+* Feb 16, 2023: I presented "Transparency and Security via Algorithmic Economics" at Carnegie Mellon University, Crypto Seminar
 
 * December 12-13, 2022: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Tokenomics, 2022, Sorbonne Université, France
 
