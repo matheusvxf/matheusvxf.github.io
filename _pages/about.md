@@ -25,17 +25,9 @@ He has been recognized with several awards, including the [CNS Prize for Excelle
 Upcoming Events
 ---------------
 
-* June 9, 2023: I present [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at SIAM Conference on Financial Mathematics and Engineering, Philadelphia
-
-* June 14, 2023: I will present [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at MIT Media Lab, Digital Currency Initiative
-
-* June 20-23, 2023: I will present [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at STOC 2023, Orlando, FL
-
-* June 23, 2023: I will present [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Highlights Beyond EC, 2023. 
-
 * July 19, 2023: I will present [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at [CryptoEconDay](https://lu.ma/cedparis), Paris
 
-* Fall, 2023: I will be a Research Member at Simons Laufer Mathematical Sciences Institute, Berkeley, CA
+* August 15, 2023: I will be presenting at Blockchains + X workshop
 
 * January 2-5, 2024: I will speak at Young Workshop on Economics and Computation, Tel-Aviv, Israel
 
@@ -43,6 +35,14 @@ Upcoming Events
 
 Past Events
 ---------------
+
+* June 23, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Highlights Beyond EC, 2023. 
+
+* June 20-23, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at STOC 2023, Orlando, FL
+
+* June 14, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at MIT Media Lab, Digital Currency Initiative
+
+* June 9, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at SIAM Conference on Financial Mathematics and Engineering, Philadelphia
 
 * May 22, 2023: I presented [Credible, Optimal Auctions via Blockchains](https://arxiv.org/abs/2301.12532) at the [Eighth Marketplace Innovation Workshop](http://marketplaceinnovation.net/)
 
