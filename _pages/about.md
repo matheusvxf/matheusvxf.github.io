@@ -16,16 +16,18 @@ image:
 </style>
 
 
-Matheus Venturyne Xavier Ferreira is a Postdoctoral Fellow in Computer Science at [Harvard John A. Paulson School of Engineering and Applied Sciences](https://www.seas.harvard.edu/) and starting in Summer 2024, he will be an Assistant Professor of Computer Science at the [University of Virginia](https://engineering.virginia.edu/departments/computer-science). He earned his Ph.D. (2022) and MA (2018) in Computer Science from [Princeton University](https://www.princeton.edu/) and his BS in Computer Engineering (2016) from the [Federal University of Itajubá](https://en.unifei.edu.br/). His research interests include AI, Algorithmic Economics and Security. He applies artificial intelligence, optimization and theoretical computer science tools to create secure, transparent, and auditable platforms. For instance, he designs auctions that prevent auctioneers from profiting from manipulations. 
+Matheus Venturyne Xavier Ferreira is a Postdoctoral Fellow in Computer Science at [Harvard John A. Paulson School of Engineering and Applied Sciences](https://www.seas.harvard.edu/). Starting Fall 2024, he will be an Assistant Professor of Computer Science at the [University of Virginia](https://engineering.virginia.edu/departments/computer-science). He earned his Ph.D. (2022) and MA (2018) in Computer Science from [Princeton University](https://www.princeton.edu/) and his BS in Computer Engineering (2016) from the [Federal University of Itajubá](https://en.unifei.edu.br/). His research interests include AI, Algorithmic Economics, and Security. He applies artificial intelligence, optimization and theoretical computer science tools to create secure, transparent, and auditable platforms. For instance, he designs auctions that prevent auctioneers from profiting from manipulations. 
 
 He has been recognized with several awards, including the [CNS Prize for Excellence in Networking](https://cns.ucsd.edu/cns-students-portal/cns-espresso-prize-for-excellence-in-networking/) from UC, San Diego (2014), the Dean's Grand from [Princeton Graduate School](https://gradschool.princeton.edu/) (2016-2021), the [LATinE Fellowship](https://engineering.purdue.edu/Engr/Trailblazers) (2020) from Purdue College of Engineering, and the [Award for Excellence](https://engineering.princeton.edu/news/2020/12/03/award-excellence-honors-graduate-student-achievement) from Princeton School of Engineering (2020). Matheus hails from Itabira, the Brazilian capital of poetry.
 
 [[Curriculum Vitae]](/files/vita.pdf){: .btn}
 
+[[Office Hours]](https://calendly.com/matheusvxf){: .btn}
+
+[[I'm recruiting students]](mailto:matheus@seas.harvard.edu){: .btn}
+
 Upcoming Events
 ---------------
-
-* August 15, 2023: I will be presenting at Blockchains + X workshop
 
 * October 3, 2023: I will present [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at International Association for Quantitative Finance, New York City
 
@@ -33,6 +35,8 @@ Upcoming Events
 
 Past Events
 ---------------
+
+* August 15, 2023: I presented "Algorithm Design under the Credibility Lenses" at [Blockchains + Economics](https://blockchainsplusx.github.io/program) workshop
 
 * July 19, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at [CryptoEconDay](https://lu.ma/cedparis), Paris
 
@@ -46,7 +50,7 @@ Past Events
 
 * May 22, 2023: I presented [Credible, Optimal Auctions via Blockchains](https://arxiv.org/abs/2301.12532) at the [Eighth Marketplace Innovation Workshop](http://marketplaceinnovation.net/)
 
-* May 18, 2023: I was a panelist at Bitcoin: A game-theoretic analysis organized by [De Gruyter](https://www.degruyter.com/) [Video](https://www.youtube.com/watch?v=wKr8jECz53U&ab_channel=DeGruyter)
+* May 18, 2023: I was a panelist at Bitcoin: A game-theoretic analysis organized by [De Gruyter](https://www.degruyter.com/) [**\[Video\]**](https://www.youtube.com/watch?v=wKr8jECz53U&ab_channel=DeGruyter)
 
 * May 16, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the [Research Day at the Metrograph](https://lu.ma/gj8a03v1),  New York City
 
