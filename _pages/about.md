@@ -11,8 +11,14 @@ image:
 ---
 
 <style>
-  red { color: red }
-  yellow { color: yellow }
+  	red { color: red }
+  	yellow { color: yellow }
+
+	ul {
+    		text-align: right;
+    		color: green;
+    		font-weight: bold;
+	}
 </style>
 
 
@@ -36,13 +42,13 @@ Upcoming Events
 Past Events
 ---------------
 
-* August 15, 2023: I presented "Algorithm Design under the Credibility Lenses" at [Blockchains + Economics](https://blockchainsplusx.github.io/program) workshop
+* August 15, 2023: I presented "Algorithm Design under the Credibility Lenses" at [Blockchains + Economics](https://blockchainsplusx.github.io/program) workshop \[[<ul>Video</ul>](https://www.youtube.com/watch?v=AhoPt6SFHj4&ab_channel=BlockchainsPlusX)\]
 
 * July 19, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at [CryptoEconDay](https://lu.ma/cedparis), Paris
 
 * June 23, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at Highlights Beyond EC, 2023. 
 
-* June 20-23, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at STOC 2023, Orlando, FL
+* June 20-23, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at STOC 2023, Orlando, FL \[[<ul>Video</ul>](https://www.youtube.com/watch?v=Yyy1uvjmXTg&ab_channel=SIGACTEC)\]
 
 * June 14, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at MIT Media Lab, Digital Currency Initiative
 
@@ -50,7 +56,7 @@ Past Events
 
 * May 22, 2023: I presented [Credible, Optimal Auctions via Blockchains](https://arxiv.org/abs/2301.12532) at the [Eighth Marketplace Innovation Workshop](http://marketplaceinnovation.net/)
 
-* May 18, 2023: I was a panelist at Bitcoin: A game-theoretic analysis organized by [De Gruyter](https://www.degruyter.com/) [**\[Video\]**](https://www.youtube.com/watch?v=wKr8jECz53U&ab_channel=DeGruyter)
+* May 18, 2023: I was a panelist at Bitcoin: A game-theoretic analysis organized by [De Gruyter](https://www.degruyter.com/) [\[<ul>Video</ul>\]](https://www.youtube.com/watch?v=wKr8jECz53U&ab_channel=DeGruyter)
 
 * May 16, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the [Research Day at the Metrograph](https://lu.ma/gj8a03v1),  New York City
 
