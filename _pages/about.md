@@ -28,9 +28,9 @@ He has been recognized with several awards, including the [CNS Prize for Excelle
 
 [[Curriculum Vitae]](/files/vita.pdf){: .btn}
 
-[[Office Hours]](https://calendly.com/matheusvxf){: .btn}
-
 [[I'm recruiting students]](mailto:matheus@seas.harvard.edu){: .btn}
+
+I have office hours Mondays at 11:00 AM EST at [Zoom](https://harvard.zoom.us/my/matheusvxf) or at room 5.431. Let me know beforehand if you will be coming. 
 
 Upcoming Events
 ---------------
