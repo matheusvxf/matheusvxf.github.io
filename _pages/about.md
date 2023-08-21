@@ -35,6 +35,8 @@ I have office hours Mondays at 11:00 AM EST at [Zoom](https://harvard.zoom.us/my
 Upcoming Events
 ---------------
 
+* August 27, 2023: I will be a panelist at the Future of Decentralization, AI & Computing Summit, UC Berkeley
+
 * October 3, 2023: I will present [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at International Association for Quantitative Finance, New York City
 
 * January 2-5, 2024: I will speak at Young Workshop on Economics and Computation, Tel-Aviv, Israel
