@@ -28,21 +28,19 @@ He has been recognized with several awards, including the [CNS Prize for Excelle
 
 [[Curriculum Vitae]](/files/vita.pdf){: .btn}
 
-[[I'm recruiting students]](mailto:matheus@seas.harvard.edu){: .btn}
-
-I have office hours Mondays at 11:00 AM EST at [Zoom](https://harvard.zoom.us/my/matheusvxf) or at room 5.431. Let me know beforehand if you will be coming. 
+I'm recruiting students. Apply [here](https://engineering.virginia.edu/departments/computer-science/cs-graduate-program){: .btn}
 
 Upcoming Events
 ---------------
 
-* August 27, 2023: I will be a panelist at the Future of Decentralization, AI & Computing Summit, UC Berkeley
-
-* October 3, 2023: I will present [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at International Association for Quantitative Finance, New York City
+* October 3, 2023: I will present [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the International Association for Quantitative Finance, New York City
 
 * January 2-5, 2024: I will speak at Young Workshop on Economics and Computation, Tel-Aviv, Israel
 
 Past Events
 ---------------
+
+* August 27, 2023: I was a panelist at the Future of Decentralization, AI & Computing Summit, UC Berkeley
 
 * August 15, 2023: I presented "Algorithm Design under the Credibility Lenses" at [Blockchains + Economics](https://blockchainsplusx.github.io/program) workshop \[[<hfill>Video</hfill>](https://www.youtube.com/watch?v=AhoPt6SFHj4&ab_channel=BlockchainsPlusX)\]
 
