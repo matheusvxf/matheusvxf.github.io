@@ -28,7 +28,7 @@ He has been recognized with several awards, including the [CNS Prize for Excelle
 
 [[Curriculum Vitae]](/files/vita.pdf){: .btn}
 
-I'm recruiting students. Apply [here](https://engineering.virginia.edu/departments/computer-science/cs-graduate-program){: .btn}
+I'm recruiting students. Apply [[here]](https://engineering.virginia.edu/departments/computer-science/cs-graduate-program){: .btn}
 
 Upcoming Events
 ---------------
