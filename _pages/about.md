@@ -22,11 +22,9 @@ image:
 </style>
 
 
-I will be starting as an Assistant Professor of Computer Science at the [University of Virginia](https://engineering.virginia.edu/departments/computer-science) in Fall 2024. I will be taking Ph.D. students—more information [here](https://engineering.virginia.edu/departments/computer-science/cs-graduate-program).
+I am an incoming Assistant Professor of Computer Science at the [University of Virginia](https://engineering.virginia.edu/departments/computer-science). I will be taking Ph.D. students—more information [here](https://engineering.virginia.edu/departments/computer-science/cs-graduate-program).
 
-Matheus Venturyne Xavier Ferreira is a Lecturer in Computer Science at [Harvard John A. Paulson School of Engineering and Applied Sciences](https://www.seas.harvard.edu/). He earned his Ph.D. (2022) and M.A. (2018) in Computer Science from [Princeton University](https://www.princeton.edu/) and his B.S. in Computer Engineering (2016) from the [Federal University of Itajubá](https://en.unifei.edu.br/). His research interests include AI, Algorithmic Economics, and Security. He applies artificial intelligence, optimization, and theoretical computer science tools to create secure, transparent, and auditable platforms. For instance, he designs auctions that prevent auctioneers from profiting from manipulations. Matheus hails from Itabira, the Brazilian capital of poetry.
-
-[[Curriculum Vitae]](/files/vita.pdf){: .btn}
+Matheus is a Lecturer and Postdoctoral Fellow in Computer Science at [Harvard John A. Paulson School of Engineering and Applied Sciences](https://www.seas.harvard.edu/). He earned his Ph.D. (2022) and M.A. (2018) in Computer Science from [Princeton University](https://www.princeton.edu/) and his B.S. in Computer Engineering (2016) from the [Federal University of Itajubá](https://en.unifei.edu.br/). His research interests include AI, Algorithmic Economics, and Security. He applies artificial intelligence, optimization, and theoretical computer science tools to create secure, transparent, and auditable platforms. For instance, he designs auctions that prevent auctioneers from profiting from manipulations. Matheus hails from Itabira, the Brazilian capital of poetry.
 
 Upcoming Events
 ---------------
