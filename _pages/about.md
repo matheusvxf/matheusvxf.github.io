@@ -22,6 +22,8 @@ image:
 </style>
 
 
+** My new website [here](https://sites.google.com/view/matheusvxf/bio) **
+
 I am an incoming Assistant Professor of Computer Science at the [University of Virginia](https://engineering.virginia.edu/departments/computer-science). I'm looking for motivated Ph.D. students --- more information [here](https://engineering.virginia.edu/departments/computer-science/cs-graduate-program).
 
 Matheus is a Lecturer and Postdoctoral Fellow in Computer Science at [Harvard John A. Paulson School of Engineering and Applied Sciences](https://www.seas.harvard.edu/). He earned his Ph.D. (2022) and M.A. (2018) in Computer Science from [Princeton University](https://www.princeton.edu/) and his B.S. in Computer Engineering (2016) from the [Federal University of Itajubá](https://en.unifei.edu.br/). His research interests include AI, Algorithmic Economics, and Security. He applies artificial intelligence, optimization, and theoretical computer science tools to create secure, transparent, and auditable platforms. For instance, he designs auctions that prevent auctioneers from profiting from manipulations. Matheus hails from Itabira, the Brazilian capital of poetry.
@@ -29,12 +31,12 @@ Matheus is a Lecturer and Postdoctoral Fellow in Computer Science at [Harvard Jo
 Upcoming Events
 ---------------
 
-* October 3, 2023: I will present [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the International Association for Quantitative Finance, New York City
-
 * January 2-5, 2024: I will speak at Young Workshop on Economics and Computation, Tel-Aviv, Israel
 
 Past Events
 ---------------
+
+* October 3, 2023: I presented [Credible Decentralized Exchange Design via Verifiable Sequencing Rules](https://arxiv.org/abs/2209.15569) at the International Association for Quantitative Finance, New York City
 
 * August 27, 2023: I was a panelist at the [Future of Decentralization, AI & Computing Summit](https://rdi.berkeley.edu/events/decentralizationaisummit), UC Berkeley \[[<hfill>Video</hfill>](https://www.youtube.com/watch?v=J5OmmgAdNg8&t=25816s&ab_channel=Blockchain-Web3MOOCs)\]
 
