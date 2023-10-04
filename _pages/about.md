@@ -22,7 +22,8 @@ image:
 </style>
 
 
-** My new website [here](https://sites.google.com/view/matheusvxf/bio) **
+My new website [here](https://sites.google.com/view/matheusvxf/bio)
+---------------------
 
 I am an incoming Assistant Professor of Computer Science at the [University of Virginia](https://engineering.virginia.edu/departments/computer-science). I'm looking for motivated Ph.D. students --- more information [here](https://engineering.virginia.edu/departments/computer-science/cs-graduate-program).
 
